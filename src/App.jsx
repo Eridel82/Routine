@@ -1411,7 +1411,7 @@ export default function RoutineApp() {
           <Tag>v3 · Informe Ejecutivo</Tag>
         </div>
         <div style={{ fontSize:10,color:C.muted }}>App de rutinas hiperpersonalizadas con IA · $89 MXN/mes</div>
-        <div style={{ fontSize:10,color:C.muted,marginTop:2 }}>Daniel Hernández · Edgar Sánchez · Eleazar Espinoza — Función Informática 2026</div>
+        <div style={{ fontSize:10,color:C.muted,marginTop:2 }}>Eridel Sánchez 2026</div>
       </div>
 
       {/* Mode tabs */}
@@ -1512,7 +1512,7 @@ export default function RoutineApp() {
       )}
 
       <div style={{ textAlign:"center",marginTop:32,fontSize:9,color:"#2A2A3E",letterSpacing:"0.5px" }}>
-        ROUTINE APP · PROTOTIPO INTERACTIVO v3 · 2026 · Nova Universitas
+        ROUTINE APP · PROTOTIPO INTERACTIVO· 2026 · Nova Universitas
       </div>
     </div>
   );
