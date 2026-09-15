@@ -1411,7 +1411,7 @@ export default function RoutineApp() {
           <Tag>v3 · Informe Ejecutivo</Tag>
         </div>
         <div style={{ fontSize:10,color:C.muted }}>App de rutinas hiperpersonalizadas con IA · $89 MXN/mes</div>
-        <div style={{ fontSize:10,color:C.muted,marginTop:2 }}>Eridel Sánchez 2026</div>
+        <div style={{ fontSize:10,color:C.muted,marginTop:2 }}>Eridel Sanchez 2026</div>
       </div>
 
       {/* Mode tabs */}
